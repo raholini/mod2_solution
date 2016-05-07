@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="/css/mode2_css.css">
+<title>mod2 Solution</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="mod2_solution/css/mode2_css.css">
 </head>
+
+<body>
+	<h1>My Menu</h1>
+	
+</body>
+
 </html>
 
 
